@@ -4,8 +4,17 @@ Pocket is a CLI tool that lets you generate reverse shells. Basically revshells.
 
 ## Installation
 1. Clone the repo
+```
+git clone https://github.com/ngn13/pocket.git
+```
 2. Install the requirements
+```
+pip install -r requirements.txt
+```
 3. Run pocket
-You can also make pocket executable with `chmod +x pocket.py` and run it that way.
+```
+python pocket.py
+```
+You can also make it executable with `chmod +x pocket.py` and run it that way.
 
 *This project is under MIT license, check LICENSE.txt for more information*
